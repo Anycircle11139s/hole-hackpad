@@ -24,7 +24,7 @@ I found the hackpad guide on accident and thought it was really cool, so I wante
 
 ## Firmware
 
-- **Language:** C++ / CircuitPython
+- **Language:** KMK python / CircuitPython
 - **Notes:** The CircuitPython code is simple and easy to flash. One key is bound to CMD+C, the second to CMD+V, and the third to CMD+A.
 
 Firmware files are in the [`firmware/`](./firmware) folder.
