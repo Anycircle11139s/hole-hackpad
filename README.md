@@ -2,7 +2,7 @@
 
 A small hackpad made with some holes in it, built for the Hack Club [Hackpad](https://hackpad.hackclub.com) YSWS.
 
-**By:** Darsh Shah ([@Anycircle11139s](https://github.com/Anycircle11139s))
+**By:** Darsh Shah ([@Anycircle11139s](https://github.com/Anycircle11139s)) or @NotALarp on slack
 
 ## Overview
 
