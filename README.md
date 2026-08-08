@@ -33,7 +33,7 @@ Firmware files are in the [`firmware/`](./firmware) folder.
 
 PCB design files are in the [`hardware/`](./hardware) folder, and 3D-printable case files are in the [`enclosure/`](./enclosure) folder.
 
-See [`BOM.md`](./BOM.md) for the full bill of materials.
+See [`BOM.csv`](./BOM.csv) for the full bill of materials.
 
 ## Images
 
