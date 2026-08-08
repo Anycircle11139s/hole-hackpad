@@ -1,4 +1,4 @@
-"# Bill of Materials — A Hole Hackpad","","",""
+"Bill of Materials for A Hole Hackpad","","",""
 "Part","Qty","Cost Each","Notes"
 "---","---","---","---"
 "Seeed Xiao RP2040 microcontroller","1","$0.00","From Hackpad kit"
@@ -9,4 +9,4 @@
 "M3 Screws","4","$0.00","From Hackpad kit"
 "Custom PCB","1","$5.50","From JLCPCB"
 "","","",""
-"**Total estimated cost:** $5.50","","",""
+"Total estimated cost: $5.50","","",""
